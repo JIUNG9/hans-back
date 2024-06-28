@@ -20,8 +20,7 @@ There are the posts whose buy the clothes from the handsome-shopping-mall can po
 
 
 ## API Documentation
-https://www.notion.so/API-c0610cde3b5a4f9ead9fd21c4d8c0e4e?pvs=4
-
+https://aback-whistle-b8a.notion.site/API-c0610cde3b5a4f9ead9fd21c4d8c0e4e?pvs=4)
 ## 🔨 Tech
 
 ### Language
