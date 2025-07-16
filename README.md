@@ -58,8 +58,3 @@ https://aback-whistle-b8a.notion.site/API-c0610cde3b5a4f9ead9fd21c4d8c0e4e?pvs=4
     </tr>
  </table>
 
-## Contacts
-
-📫 How to reach me **rnwldnd7248@gmai.com**
-
- 📄 Know about my experiences [https://www.notion.so/704f524047084978836216b3621dc12e?pvs=4](https://www.notion.so/704f524047084978836216b3621dc12e?pvs=4)
